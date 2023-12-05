@@ -1,5 +1,5 @@
 /**
- * Created by wb-zxs269841 on 2017/3/3.
+ * Created by zxs on 2017/3/3.
  */
 function a() {
     var d,s="今天的日期是：";
